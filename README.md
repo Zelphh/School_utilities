@@ -3,7 +3,7 @@
 
 # Sobre: 
 
-School Utilities é um conjunto de algoritimos simples que eu faço/utilizo para me ajudar em materias de exatas na escola, e por diversão também :D
+School Utilities é um conjunto de algoritmos simples que eu faço/utilizo para me ajudar em matérias de exatas na escola, e por diversão também :D
 
 # Algoritmos: 
 
