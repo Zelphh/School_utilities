@@ -73,7 +73,7 @@ while confirm == "n": #Enquanto o usuario não der a confirmação da lista, o l
             print("Digite de novo: ")
 
         try:
-            var = int(input(f"N°{count}: ")) #Caso usuario digite uma letra ou caractere invalido, o programa
+            var = float(input(f"N°{count}: ")) #Caso usuario digite uma letra ou caractere invalido, o programa
                                              #entende que ele terminou de digitar a lsita e pede uma confimação
             num_list.append(var)
 
